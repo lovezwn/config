@@ -1,0 +1,28 @@
+{
+  "ios": {
+    "code": 1,
+    "show":false,
+    "name": "0.2.0",
+    "filename": "GitHubPro",
+    "url": "",
+    "time": 1233,
+    "des": "升级信息",
+    "title":"Update",
+    "size": 0,
+    "md5": "",
+    "force": false
+  },
+  "android": {
+    "code": 1,
+    "show":true,
+    "name": "0.2.0",
+    "filename": "GitHubPro",
+    "url": "",
+    "time": 134,
+    "des": "升级信息",
+    "title":"Android Update",
+    "size": 0,
+    "md5": "",
+    "force": false
+  }
+}

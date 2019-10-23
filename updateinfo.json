@@ -14,7 +14,7 @@
     "size": 0,
     "md5": "",
     "force": false,
-    "showShareDialog":false
+    "showShareDialog":true
   },
   "android": {
     "code": 1,

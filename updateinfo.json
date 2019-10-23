@@ -16,13 +16,13 @@
     "force": false
   },
   "android": {
-    "code": 1,
+    "code": 2,
     "showDialog":true,
     "showIcon":true,
     "name": "0.2.0",
     "filename": "GitHubPro",
     "downloadUrl": "",
-    "openUrl": "",
+    "openUrl": "htts://github.com",
     "time": 134,
     "des": "升级信息",
     "tilteColor":"#000000",

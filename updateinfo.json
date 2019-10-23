@@ -16,7 +16,7 @@
     "force": false
   },
   "android": {
-    "code": 2,
+    "code": 1,
     "showDialog":true,
     "showIcon":true,
     "name": "0.2.0",

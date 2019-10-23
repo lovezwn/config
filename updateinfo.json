@@ -2,6 +2,7 @@
   "ios": {
     "code": 1,
     "show":false,
+    "showIcon":true,
     "name": "0.2.0",
     "filename": "GitHubPro",
     "url": "",
@@ -15,6 +16,7 @@
   "android": {
     "code": 1,
     "show":true,
+    "showIcon":true,
     "name": "0.2.0",
     "filename": "GitHubPro",
     "url": "",

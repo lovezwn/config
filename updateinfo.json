@@ -9,6 +9,7 @@
     "time": 1233,
     "des": "升级信息",
     "title":"Update",
+    "tilteColor":"#000000",
     "size": 0,
     "md5": "",
     "force": false
@@ -22,6 +23,7 @@
     "url": "",
     "time": 134,
     "des": "升级信息",
+    "tilteColor":"#000000",
     "title":"Android Update",
     "size": 0,
     "md5": "",
